@@ -1,0 +1,8 @@
+open-clip-torch
+torch
+torchvision
+tqdm
+pandas
+scikit-learn
+Pillow
+streamlit
